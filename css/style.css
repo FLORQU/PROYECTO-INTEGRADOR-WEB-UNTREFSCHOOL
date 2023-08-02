@@ -57,7 +57,7 @@ li a.active, li a:hover{
 }
 .banner {
     border: 1px solid;
-    background-image: url("/multimedia/image/img2.jpg");
+    background-image: url("../multimedia/image/img2.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -90,7 +90,7 @@ li a.active, li a:hover{
         font-size: 1rem;
         }
         .banner {
-            background-image: url("/multimedia/image/img2.jpg");
+            background-image: url("../multimedia/image/img2.jpg");
             background-size:cover; max-width: 100%;
         }
         .container {
